@@ -36,9 +36,9 @@ npm run dev
 ```
 
 Open in browser:  
-👉 `http://localhost:3000/flows/mixed`
-👉 `http://localhost:3000/flows/circle`
-👉 `http://localhost:3000/flows/square`
+1. `http://localhost:3000/flows/mixed`
+2. `http://localhost:3000/flows/circle`
+3. `http://localhost:3000/flows/square`
 
 
 ## Add New Node Types
